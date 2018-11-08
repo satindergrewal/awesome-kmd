@@ -46,4 +46,10 @@ A curated list of awesome Komodo Platform frameworks, libraries and software htt
     - Einsteinium
   - Articles mentioning Komodo
   - Videos mentioning komodo
+  - Resources
+    - Conferences
+    - Meetups
+    - E-Books
+    - Twitter
+    - Website
     
