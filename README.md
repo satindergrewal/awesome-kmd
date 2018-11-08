@@ -3,15 +3,24 @@ A curated list of awesome Komodo Platform frameworks, libraries and software htt
 
 - Awesome Komodo
   - Wallets
+  - BarterDEX Based Applications
+    - HyperDEX
+    - BarterDEX
+    - CoinCollect
   - Explorers
   - Code Libraries
+    - C++
+    - C
+    - Java
+    - Rust
+    - Golang
+    - JavaScript
+    - C#
   - Documentation
     - User Documentation
     - Developer Documentation
   - Knowledgebase and Help
-  - Articles mentioning Komodo
-  - Videos mentioning komodo
-  - Third party projects based on Komodo
+  - Ecosystem Projects
     - Veruscoin
     - Maramara
     - Pirate
@@ -20,7 +29,7 @@ A curated list of awesome Komodo Platform frameworks, libraries and software htt
     - Pixdum
     - Coque
     - BitcoinHush
-  - Third party companies giving services related to Komodo
+  - Ecosystem Companies/Organisations
     - ChainMakers
     - ChainZilla
     - DevSEC
@@ -30,9 +39,11 @@ A curated list of awesome Komodo Platform frameworks, libraries and software htt
     - PearlPay
     - AXO
     - DEX Stats
-  - Third/Other party projects using Komodo technologies like dPoW (delayed Proof of Work)
+  - dPoW (delayed Proof of Work) Secured Projects
     - Hush
     - GameCredits
     - Chips
     - Einsteinium
+  - Articles mentioning Komodo
+  - Videos mentioning komodo
     
