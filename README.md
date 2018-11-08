@@ -29,6 +29,7 @@ A curated list of awesome Komodo Platform frameworks, libraries and software htt
     - Monaize
     - PearlPay
     - AXO
+    - DEX Stats
   - Third/Other party projects using Komodo technologies like dPoW (delayed Proof of Work)
     - Hush
     - GameCredits
