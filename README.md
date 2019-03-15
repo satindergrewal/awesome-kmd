@@ -2,8 +2,8 @@
 A curated list of awesome Komodo Platform frameworks, libraries and software https://awesomekmd.com
 
 - Awesome Komodo
-  - Wallets
-  - BarterDEX Based Applications
+  - [Wallets](#wallets)
+  - [BarterDEX Applications](#barterdex-resources)
     - HyperDEX
     - BarterDEX
     - CoinCollect
