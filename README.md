@@ -4,9 +4,8 @@ A curated list of awesome Komodo Platform frameworks, libraries and software htt
 - Awesome Komodo
   - [Wallets](#wallets)
   - [BarterDEX Resources](#barterdex-resources)
-    - HyperDEX
-    - BarterDEX
-    - CoinCollect
+    - [MarketMaker](#marketmaker-mm)
+    - [BarterDEX Desktop Applications](#barterdex-desktop-applications)
   - [KMD Explorers](#kmd-explorers)
   - [Code Libraries](#code-libraries)
     - C++
@@ -55,28 +54,33 @@ A curated list of awesome Komodo Platform frameworks, libraries and software htt
     
 
 # Wallets
-- Official Komodo Wallets
+
+### Official Komodo Wallets
   - Website: [https://komodoplatform.com/komodo-wallets/](https://komodoplatform.com/komodo-wallets/)
   - Source Code:
-    - Agama Desktop Wallet: https://github.com/KomodoPlatform/Agama
-    - Agama Mobile Wallet: https://github.com/KomodoPlatform/agama-mobile
-    - KomodoOceanQT Desktop Wallet: https://github.com/DeckerSU/KomodoOcean
-- Unofficial Komodo Wallets:
+    - Agama Desktop Wallet: [https://github.com/KomodoPlatform/Agama](https://github.com/KomodoPlatform/Agama)
+    - Agama Mobile Wallet: [https://github.com/KomodoPlatform/agama-mobile](https://github.com/KomodoPlatform/agama-mobile)
+    - KomodoOceanQT Desktop Wallet: [https://github.com/DeckerSU/KomodoOcean](https://github.com/DeckerSU/KomodoOcean)
+
+### Unofficial Komodo Wallets:
   
 
 # BarterDEX Resources
-- Marketmaker (mm): DEX API provider daemon
-  - v1.0 source code: https://github.com/jl777/SuperNET
-  - v2.0 source code (in development code): https://github.com/artemii235/SuperNET/tree/mm2
-- BarterDEX Desktopf Applications:
-  - HyperDEX - Very user friendly interface for Marketmaker v1.0: https://github.com/atomiclabs/hyperdex
+
+### Marketmaker (mm)
+DEX API provider daemon
+  - v1.0 source code: [https://github.com/jl777/SuperNET](https://github.com/jl777/SuperNET)
+  - v2.0 source code (in development code): [https://github.com/artemii235/SuperNET/tree/mm2](https://github.com/artemii235/SuperNET/tree/mm2)
+
+### BarterDEX Desktop Applications:
+  - HyperDEX - Very user friendly interface for Marketmaker v1.0: [https://github.com/atomiclabs/hyperdex](https://github.com/atomiclabs/hyperdex)
 
 
 # KMD Explorers
-- https://kmdexplorer.io/
-- https://kmdexplorer.ru/
-- https://kmd.explorer.dexstats.info
-- https://komodod.com/
+- [https://kmdexplorer.io/](https://kmdexplorer.io/)
+- [https://kmdexplorer.ru/](https://kmdexplorer.ru/)
+- [https://kmd.explorer.dexstats.info](https://kmd.explorer.dexstats.info)
+- [https://komodod.com/](https://komodod.com/)
 
 
 # Code Libraries
