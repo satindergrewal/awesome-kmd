@@ -56,7 +56,7 @@ A curated list of awesome Komodo Platform frameworks, libraries and software htt
 
 # Wallets
 - Official Komodo Wallets
-  - Website: https://komodoplatform.com/komodo-wallets/
+  - Website: [https://komodoplatform.com/komodo-wallets/](https://komodoplatform.com/komodo-wallets/)
   - Source Code:
     - Agama Desktop Wallet: https://github.com/KomodoPlatform/Agama
     - Agama Mobile Wallet: https://github.com/KomodoPlatform/agama-mobile
