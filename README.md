@@ -85,6 +85,26 @@ DEX API provider daemon
 
 # Code Libraries
 
+### C++
+
+### C
+
+### Rust
+  - komodorpc-rust-client: 
+    - Source Code: [https://github.com/n41r0j/komodorpc-rust-client](https://github.com/n41r0j/komodorpc-rust-client)
+    - Documentation: 
+    - Examples: 
+
+### Golang
+  - kmdgo:
+    - Source Code: [https://github.com/satindergrewal/kmdgo](https://github.com/satindergrewal/kmdgo)
+    - Documentation: [https://godoc.org/github.com/satindergrewal/kmdgo/](https://godoc.org/github.com/satindergrewal/kmdgo/)
+    - Examples: [https://github.com/satindergrewal/kmdgo/blob/master/examples](https://github.com/satindergrewal/kmdgo/blob/master/examples)
+
+### JavaScript
+
+### C#
+
 
 #Documentation
 
