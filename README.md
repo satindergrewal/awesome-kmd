@@ -8,13 +8,13 @@ A curated list of awesome Komodo Platform frameworks, libraries and software htt
     - [BarterDEX Desktop Applications](#barterdex-desktop-applications)
   - [KMD Explorers](#kmd-explorers)
   - [Code Libraries](#code-libraries)
-    - C++
-    - C
+    - [C++](#c)
+    - [C](#c-1)
     - Java
-    - Rust
-    - Golang
-    - JavaScript
-    - C#
+    - [Rust](#rust)
+    - [Golang](#golang)
+    - [JavaScript](#javascript)
+    - [C#](#c-2)
   - Documentation
     - User Documentation
     - Developer Documentation
