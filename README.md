@@ -111,6 +111,7 @@ DEX API provider daemon
 #Documentation
   - Komodo Official Documentation: [https://developers.komodoplatform.com](https://developers.komodoplatform.com)
   - MarketMaker v2.0 API documentation: [https://developers.atomicdex.io](https://developers.atomicdex.io)
+  - Antara Gaming SDK Documentation: [https://antara-gaming-sdk.readthedocs.io/](https://antara-gaming-sdk.readthedocs.io)
 
 
 #Knowledgebase and Help
