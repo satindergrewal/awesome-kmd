@@ -34,8 +34,9 @@ A curated list of awesome Komodo Platform frameworks, libraries and software htt
     - DevSEC
     - Komodo Pioneers
     - Peer2Cloud
-    - Monaize
+    - Pungo
     - PearlPay
+    - RedFox
     - AXO
     - DEX Stats
   - dPoW (delayed Proof of Work) Secured Projects
@@ -58,22 +59,23 @@ A curated list of awesome Komodo Platform frameworks, libraries and software htt
 ### Official Komodo Wallets
   - Website: [https://komodoplatform.com/komodo-wallets/](https://komodoplatform.com/komodo-wallets/)
   - Source Code:
-    - Agama Desktop Wallet: [https://github.com/KomodoPlatform/Agama](https://github.com/KomodoPlatform/Agama)
-    - Agama Mobile Wallet: [https://github.com/KomodoPlatform/agama-mobile](https://github.com/KomodoPlatform/agama-mobile)
     - KomodoOceanQT Desktop Wallet: [https://github.com/DeckerSU/KomodoOcean](https://github.com/DeckerSU/KomodoOcean)
 
 ### Unofficial Komodo Wallets:
-  
+  - Verus Agama Wallet: [https://veruscoin.io/wallet.html](https://veruscoin.io/wallet.html)
+  - 
 
-# BarterDEX Resources
+# AtomicDEX Resources
 
 ### Marketmaker (mm)
 DEX API provider daemon
   - v1.0 source code: [https://github.com/jl777/SuperNET](https://github.com/jl777/SuperNET)
   - v2.0 source code (in development code): [https://github.com/artemii235/SuperNET/tree/mm2](https://github.com/artemii235/SuperNET/tree/mm2)
 
-### BarterDEX Desktop Applications:
-  - HyperDEX - Very user friendly interface for Marketmaker v1.0: [https://github.com/atomiclabs/hyperdex](https://github.com/atomiclabs/hyperdex)
+### AtomicDEX Desktop Applications:
+  - AtomicDEX Official Mobile App: [https://atomicdex.io](https://atomicdex.io)
+  - HyperDEX (3rd party) - Very user friendly interface for Marketmaker v2.0: [https://github.com/atomiclabs/hyperdex-nightlies/releases](https://github.com/atomiclabs/hyperdex-nightlies/releases)
+  - Chainswap (3rd Party) - Another amazing Marketmaker v2.0 based Desktop DEX App: [https://github.com/chainmakers/chainmakers-ui-mono-repository/releases](https://github.com/chainmakers/chainmakers-ui-mono-repository/releases)
 
 
 # KMD Explorers
@@ -107,10 +109,13 @@ DEX API provider daemon
 
 
 #Documentation
+  - Komodo Official Documentation: [https://developers.komodoplatform.com](https://developers.komodoplatform.com)
+  - MarketMaker v2.0 API documentation: [https://developers.atomicdex.io](https://developers.atomicdex.io)
 
 
 #Knowledgebase and Help
-
+  - Official Komodo Platform support: [https://support.komodoplatform.com](https://support.komodoplatform.com)
+  - Komodo Platform Discord: [https://komodoplatform.com/discord](https://komodoplatform.com/discord)
 
 #Ecosystem Projects
 
