@@ -25,7 +25,8 @@ A curated list of awesome Komodo Platform frameworks, libraries and software htt
     - Pirate
     - Utrum
     - KMDice
-    - Pixdum
+    - HyperDEX
+    - Chainswap
     - Coque
     - BitcoinHush
   - Ecosystem Companies/Organisations
@@ -108,13 +109,15 @@ DEX API provider daemon
 ### C#
 
 
-#Documentation
+# Documentation
+
   - Komodo Official Documentation: [https://developers.komodoplatform.com](https://developers.komodoplatform.com)
   - MarketMaker v2.0 API documentation: [https://developers.atomicdex.io](https://developers.atomicdex.io)
   - Antara Gaming SDK Documentation: [https://antara-gaming-sdk.readthedocs.io/](https://antara-gaming-sdk.readthedocs.io)
 
 
-#Knowledgebase and Help
+# Knowledgebase and Help
+
   - Official Komodo Platform support: [https://support.komodoplatform.com](https://support.komodoplatform.com)
   - Komodo Platform Discord: [https://komodoplatform.com/discord](https://komodoplatform.com/discord)
 
