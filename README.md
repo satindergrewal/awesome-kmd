@@ -15,7 +15,7 @@ A curated list of awesome Komodo Platform frameworks, libraries and software htt
     - [Golang](#golang)
     - [JavaScript](#javascript)
     - [C#](#c-2)
-  - Proof of Concept Apps
+  - [Proof of Concept Apps](#proof-of-concept-apps)
     - [General CC](#general-cc)
     - [Assets](#assets)
     - [Channels](#channels)
