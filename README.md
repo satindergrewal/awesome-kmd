@@ -100,6 +100,8 @@ DEX API provider daemon
   - AtomicDEX Official Mobile App: [https://atomicdex.io](https://atomicdex.io)
   - HyperDEX (3rd party) - Very user friendly interface for Marketmaker v2.0: [https://github.com/atomiclabs/hyperdex-nightlies/releases](https://github.com/atomiclabs/hyperdex-nightlies/releases)
   - Chainswap (3rd Party) - Another amazing Marketmaker v2.0 based Desktop DEX App: [https://github.com/chainmakers/chainmakers-ui-mono-repository/releases](https://github.com/chainmakers/chainmakers-ui-mono-repository/releases)
+  - Python QT (3rd Party) - MarketMaker Exchange and trading Bot GUI: [https://github.com/smk762/mmbot_qt/blob/style/docs/README.rst](https://github.com/smk762/mmbot_qt/blob/style/docs/README.rst)
+  - PytomicDEX TUI (3rd Part) MarketMaker TUI written in Python - [https://github.com/smk762/pytomicDEX](https://github.com/smk762/pytomicDEX)
 
 
 # KMD Explorers
@@ -142,6 +144,9 @@ DEX API provider daemon
   - Assets CC TUI in Python - [https://github.com/tonymorony/komodo-cctools-python/blob/master/assets_cc_tui.py](https://github.com/tonymorony/komodo-cctools-python/blob/master/assets_cc_tui.py)
   - Buy/Sell NFT Rogue Characters line 1527-1915 - [https://github.com/tonymorony/komodo-cctools-python/blob/master/lib/tuilib.py#L1527](https://github.com/tonymorony/komodo-cctools-python/blob/master/lib/tuilib.py#L1527)
 
+### Bots
+  - Telegram Bot in Python - [https://github.com/tonymorony/python-telegram-bot](https://github.com/tonymorony/python-telegram-bot)
+
 ### Channels
   - Channels Instant Payment Mechanism - [https://github.com/tonymorony/ChannelsCC-GUI](https://github.com/tonymorony/ChannelsCC-GUI)
 
@@ -168,6 +173,11 @@ DEX API provider daemon
   - Gateways CC Usage TUI in Python - [https://github.com/tonymorony/komodo-cctools-python/blob/master/gateways_usage_tui.py](https://github.com/tonymorony/komodo-cctools-python/blob/master/gateways_usage_tui.py)
 
 ### Heir
+
+### MarketMaker
+  - MarketMaker Exchange and trading Bot GUI in Python QT - [https://github.com/smk762/mmbot_qt/blob/style/docs/README.rst](https://github.com/smk762/mmbot_qt/blob/style/docs/README.rst)
+  - PytomicDEX TUI in Python - [https://github.com/smk762/pytomicDEX](https://github.com/smk762/pytomicDEX)
+  - AtomicDEX PyStats in Python - [https://github.com/smk762/atomicDEX_pystats](https://github.com/smk762/atomicDEX_pystats)
 
 ### Marmara
   - Marmara TUI in Python - [https://github.com/tonymorony/komodo-cctools-python/blob/master/marmara_tui.py](https://github.com/tonymorony/komodo-cctools-python/blob/master/marmara_tui.py)
