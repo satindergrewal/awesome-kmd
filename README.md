@@ -38,24 +38,24 @@ A curated list of awesome Komodo Platform frameworks, libraries and software htt
     - [Sudoku](#sudoku)
     - [Tetris](#tetris)
     - [Chat](#chat)
-  - Documentation
-    - User Documentation
-    - Developer Documentation
-  - Knowledgebase and Help
-  - Ecosystem Projects
+  - [Documentation](#documentation)
+    - [User Documentation](#documentation)
+    - [Developer Documentation](#documentation)
+  - [Knowledgebase and Help](#knowledgebase-and-help)
+  - [Ecosystem Projects](#ecosystem-projects)
     - Veruscoin
     - Maramara
     - Pirate
     - Utrum
-    - KMDice
+    - ~~KMDice~~ (Stalled)
     - HyperDEX
     - Chainswap
     - Coque
     - BitcoinHush
+    - KMDLabs
   - Ecosystem Companies/Organisations
     - ChainMakers
     - ChainZilla
-    - DevSEC
     - Komodo Pioneers
     - Peer2Cloud
     - Pungo
@@ -240,20 +240,20 @@ DEX API provider daemon
   - Official Komodo Platform support: [https://support.komodoplatform.com](https://support.komodoplatform.com)
   - Komodo Platform Discord: [https://komodoplatform.com/discord](https://komodoplatform.com/discord)
 
-#Ecosystem Projects
+# Ecosystem Projects
 
 
-#Ecosystem Companies/Organisations
+# Ecosystem Companies/Organisations
 
 
-#dPoW (delayed Proof of Work) Secured Projects
+# dPoW (delayed Proof of Work) Secured Projects
 
 
-#Articles mentioning Komodo
+# Articles mentioning Komodo
 
 
-#Videos mentioning komodo
+# Videos mentioning komodo
 
 
-#Resources
+# Resources
 
