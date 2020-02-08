@@ -241,7 +241,7 @@ DEX API provider daemon
   - Komodo Platform Discord: [https://komodoplatform.com/discord](https://komodoplatform.com/discord)
 
 # Ecosystem Projects
-
+  [https://cryptostats.cc/komodo/mining/index.php](https://cryptostats.cc/komodo/mining/index.php)
 
 # Ecosystem Companies/Organisations
 
